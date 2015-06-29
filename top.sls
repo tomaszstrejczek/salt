@@ -1,3 +1,5 @@
 base:
-  master:
-    - git
+   'master':
+      - git
+   'wawa':
+      - webserver
